@@ -27,4 +27,11 @@ Mae Fah Luang University
 
 
 🎨 UX/UI Projects
-<img src="URL" width="250" style="border-radius:10px; border:2px solid #A8D5BA;">
+<p align="center">
+  <a href="https://figma-link.com">
+    <img src="https://your-image-url.com/project1.png" width="250"/>
+  </a>
+  <a href="https://github.com/your-repo">
+    <img src="https://your-image-url.com/project2.png" width="250"/>
+  </a>
+</p>
