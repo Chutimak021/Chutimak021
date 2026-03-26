@@ -23,4 +23,4 @@ Mae Fah Luang University
 ## 🛠️ Skills
 | 💻 Coding | ⚡ Frameworks | 🧰 Tools |
 |----------|-------------|---------|
-| ![Coding](https://skillicons.dev/icons?i=dart,html,css,js) | ![Frameworks](https://skillicons.dev/icons?i=react,flutter) | ![Tools](https://skillicons.dev/icons?i=vscode,github,figma) |
+| ![Coding](https://skillicons.dev/icons?i=dart,html,css,js,cs) | ![Frameworks](https://skillicons.dev/icons?i=react,flutter) | ![Tools](https://skillicons.dev/icons?i=vscode,github,figma) |
