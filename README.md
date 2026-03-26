@@ -1,4 +1,4 @@
-## Hi there 👋
+
 <img width="1050" height="407" alt="CHUTIMA KHUNHON" src="https://github.com/user-attachments/assets/441f5ca6-9f40-47f1-9c81-14aab522012d" />
 " 
 
@@ -20,3 +20,7 @@ Mae Fah Luang University
 * Bachelor of Software Engineering
 (Expected Graduation: 2026)
 
+## 🛠️ Skills
+| 💻 Coding | ⚡ Frameworks | 🧰 Tools |
+|----------|-------------|---------|
+| ![Coding](https://skillicons.dev/icons?i=dart,html,css,js) | ![Frameworks](https://skillicons.dev/icons?i=react,flutter,vue,nuxt) | ![Tools](https://skillicons.dev/icons?i=vscode,jupyter,github,figma) |
