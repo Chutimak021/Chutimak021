@@ -1,6 +1,6 @@
 ## Hi there 👋
-
-<!-[My Profile](<img width="1050" height="600" alt="CHUTIMA KHUNHON" src="https://github.com/user-attachments/assets/198e6f87-2e63-4cd4-9be2-b429a222179f" />
+(<<img width="1050" height="407" alt="CHUTIMA KHUNHON" src="https://github.com/user-attachments/assets/441f5ca6-9f40-47f1-9c81-14aab522012d" />
+" />
 />
 )
 **Chutimak021/Chutimak021** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
