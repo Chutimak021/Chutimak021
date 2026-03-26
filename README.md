@@ -1,5 +1,5 @@
 ## Hi there 👋
-(<<img width="1050" height="407" alt="CHUTIMA KHUNHON" src="https://github.com/user-attachments/assets/441f5ca6-9f40-47f1-9c81-14aab522012d" />
+(<img width="1050" height="407" alt="CHUTIMA KHUNHON" src="https://github.com/user-attachments/assets/441f5ca6-9f40-47f1-9c81-14aab522012d" />
 " />
 />
 )
