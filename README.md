@@ -3,16 +3,25 @@
 " />
 />
 
-**Chutimak021/Chutimak021** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🌿 About Me
 
-Here are some ideas to get you started:
+I am a 4th-year Software Engineering student at Mae Fah Luang University with a strong passion for front-end development. I have hands-on experience in building user-friendly and responsive web and mobile applications, along with a solid understanding of UI/UX design principles.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am a collaborative team player with strong communication skills, able to take responsibility for tasks and manage deadlines effectively. I am highly motivated, eager to learn new technologies, and committed to continuously improving my skills.
+
+I am seeking an internship opportunity where I can apply my knowledge, gain real-world experience, and grow into a professional Front-End Developer capable of delivering engaging and high-performance applications.
+
+---
+
+## 🎓 Education
+
+**2020 – 2022**
+Latyaowittayakhom School
+
+* High School Education Level
+
+**2022 – Present**
+Mae Fah Luang University
+
+* Undergraduate Student – Software Engineering (4th Year)
+
