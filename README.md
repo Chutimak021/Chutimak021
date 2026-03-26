@@ -29,9 +29,13 @@ Mae Fah Luang University
 🎨 UX/UI Projects
 <p align="center">
   <a href="https://figma-link.com">
-    <img src="Pop Psychology Quiz_page-0001.jpg" width="250"/>
+    <img src="Pop Psychology Quiz_page-0001.jpg" width="100"/>
   </a>
   <a href="https://github.com/your-repo">
-    <img src="Pop Psychology Quiz_page-0002.jpg" width="250"/>
+    <img src="Pop Psychology Quiz_page-0002.jpg" width="100"/>
   </a>
+  <p align="center">
+  <img src="Pop Psychology Quiz_page-0003.jpg" width="100"/>
+</p>
+
 </p>
