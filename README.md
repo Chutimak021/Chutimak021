@@ -29,6 +29,6 @@ Mae Fah Luang University
 🎨 UX/UI Projects
 <p align="center">
   <a href="https://figma-link.com">
-    <img src="ตย..png" width="400"/>
+    <img src="ตย..png" width="700"/>
   </a>
 </p>
