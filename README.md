@@ -32,6 +32,9 @@ Mae Fah Luang University
     <img src="ตย..png" width="700"/>
   </a>
   <a href="https://figma-link.com">
-    <img src="เชียงรุ่ง.png" width="600"/>
+    <img src="เชียงรุ่ง.png" width="600"/> 
+  </a>
+    <a href="https://figma-link.com">
+    <img src="เพลง.png" width="600"/> 
   </a>
 </p>
